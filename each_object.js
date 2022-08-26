@@ -1,4 +1,8 @@
-    let student1={
+//    console.log(totalmarks);
+// Create 6 objects,each object will have name, class, roll no as properties.Store these objects in an array of objects.
+
+
+let student1={
         name:"Steve",
         rollno:21,
         class:"10A"
